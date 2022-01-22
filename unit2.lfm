@@ -4,6 +4,16 @@ object Form2: TForm2
   Top = 559
   Width = 400
   Caption = 'Form2'
+  ClientHeight = 300
+  ClientWidth = 400
   DesignTimePPI = 120
   LCLVersion = '2.0.12.0'
+  object CheckBox1: TCheckBox
+    Left = 193
+    Height = 24
+    Top = 130
+    Width = 96
+    Caption = 'CheckBox1'
+    TabOrder = 0
+  end
 end

@@ -5,10 +5,14 @@ unit Unit2;
 interface
 
 uses
-  Classes, SysUtils, Forms, Controls, Graphics, Dialogs;
+  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, StdCtrls;
 
 type
+
+  { TForm2 }
+
   TForm2 = class(TForm)
+    CheckBox1: TCheckBox;
   private
 
   public
