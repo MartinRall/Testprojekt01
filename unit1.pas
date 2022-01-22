@@ -25,7 +25,9 @@ var
 implementation
 
 {$R *.lfm}
+
 // Hal4lo
+
 
 end.
 
