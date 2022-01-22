@@ -2,6 +2,7 @@ unit Unit2;
 
 {$mode objfpc}{$H+}
 
+// Interface
 interface
 
 uses
