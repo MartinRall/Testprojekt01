@@ -25,6 +25,7 @@ var
 implementation
 
 {$R *.lfm}
+// Hallo
 
 end.
 
