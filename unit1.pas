@@ -25,7 +25,7 @@ var
 implementation
 
 {$R *.lfm}
-// Hallo
+// Hal4lo
 
 end.
 
